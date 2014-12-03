@@ -1,22 +1,24 @@
 {
-  "name": "OpenShift-Sample-App",
+  "name": "Nasqueron-Ship",
   "version": "1.0.0",
-  "description": "OpenShift Sample Application",
+  "description": "Nasqueron ship to explore Zed universe",
   "keywords": [
     "OpenShift",
     "Node.js",
     "application",
-    "openshift"
+    "openshift",
+    "zed",
+    "ship"
   ],
   "author": {
-    "name": "OpenShift",
-    "email": "ramr@example.org",
-    "url": "http://www.openshift.com/"
+    "name": "Sébastien Santoro aka Dereckson",
+    "email": "dereckson@espace-win.org",
+    "url": "http://www.dereckson.be/"
   },
-  "homepage": "http://www.openshift.com/",
+  "homepage": "http://ship.nasqueron.org/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/openshift/origin-server"
+    "url": "https://github.com/nasqueron/ship"
   },
 
   "engines": {
